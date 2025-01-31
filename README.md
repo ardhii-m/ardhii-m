@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ardhii-m
 - 👀 I’m interested in Machine Learning, Web development
-- 🌱 I’m currently learning Web development
+- 🌱 I’m currently learning Web development (Front-End & Back-End)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
