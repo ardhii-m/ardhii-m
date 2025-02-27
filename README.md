@@ -1,10 +1,1 @@
-- 👋 Hi, I’m @ardhii-m
-- 👀 I’m interested in Machine Learning, Web development
-- 🌱 I’m currently learning Web development (Front-End & Back-End)
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-ardhii-m/ardhii-m is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ardhii-m)](https://github.com/anuraghazra/github-readme-stats)
