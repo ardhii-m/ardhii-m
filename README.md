@@ -17,7 +17,9 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ardhii-m&theme=nord&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 # Active Projects:
+ ## Web Development
  - Movie Catalogue ([Demo](https://movie-catalogue-react.vercel.app/) | [Repo](https://github.com/ardhii-m/movie-react))
  - Pomodoro Timer ([Demo](https://pomodoro-timer-11.netlify.app/) | [Repo](https://github.com/ardhii-m/pomodoro-app))
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+ ## Data Analysis
+ - ([Bike Sharing Analysis](https://bike-sharing-ardhm.streamlit.app/) [[Repo](https://github.com/ardhii-m/Bike-Sharing-Analysis)]
