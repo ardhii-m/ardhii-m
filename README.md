@@ -1,6 +1,5 @@
 # About Me:
- - Passionate about web development and programming<br>
- - I’m currently learning [React.js, Express.js, Node.js]<br>
+ - Passionate about web development and data analysis<br>
  - Always eager to learn something new
 
 
