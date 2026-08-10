@@ -12,4 +12,4 @@
  - Pomodoro Timer ([Demo](https://pomodoro-timer-11.netlify.app/) | [Repo](https://github.com/ardhii-m/pomodoro-app))
 
  ## Data Analysis
- - ([Bike Sharing Analysis](https://bike-sharing-ardhm.streamlit.app/) [[Repo](https://github.com/ardhii-m/Bike-Sharing-Analysis)]
+ - [Bike Sharing Analysis](https://bike-sharing-ardhm.streamlit.app/) [[Repo](https://github.com/ardhii-m/Bike-Sharing-Analysis)] [[Kaggle](https://www.kaggle.com/code/ardhiandamaulana/bike-sharing-eda)]
