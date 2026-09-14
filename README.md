@@ -13,3 +13,6 @@
 
  ## Data Analysis
  - [Bike Sharing Analysis](https://bike-sharing-ardhm.streamlit.app/) [[Repo](https://github.com/ardhii-m/Bike-Sharing-Analysis)] [[Kaggle](https://www.kaggle.com/code/ardhiandamaulana/bike-sharing-eda)]
+
+## QA
+- [Game Testing (Manual)](https://drive.google.com/drive/folders/167U5xS4VMw5OI3qslfoZxHtVYqTyN5J2?usp=sharing)
